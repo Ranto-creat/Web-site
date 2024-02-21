@@ -1,0 +1,35 @@
+
+Pour un sauteur à la perche, il est très important de commencer la course d'approche au meilleur point de départ possible.
+ Cela dépend de nombreux facteurs et nécessite un ajustement précis dans la pratique.
+ Mais il existe une ligne directrice qui aidera un sauteur débutant à démarrer à peu près au bon endroit pour ce que l'on appelle «l'approche en trois étapes»,
+ basée sur la taille du corps du sauteur.
+
+Cette ligne directrice m'a été enseignée en pieds et en pouces, mais en raison de la nature internationale de Codewars,
+ je crée ce kata pour utiliser à la place des unités métriques.
+
+Pour commencer, on vous donne les deux directives suivantes : (1) Un sauteur d'une hauteur de 1,52 mètres doit commencer à 9,45 mètres sur la piste. 
+(2) Un sauteur d'une hauteur de 1,83 mètres doit démarrer à 10,67 mètres sur la piste.
+
+Vous recevrez une taille de sauteur en mètres (qui sera toujours comprise entre un minimum de 1,22 mètres et un maximum de 2,13 mètres).
+ Votre travail consiste à renvoyer la meilleure marque de départ en mètres, arrondie à deux décimales.
+
+Astuce : sur la base des deux directives données ci-dessus,
+ vous souhaiterez tenir compte du changement de marque de départ par changement de taille du corps.
+ Cela implique une relation linéaire. (Si vous n'êtes pas clair à ce sujet, recherchez en ligne « équation linéaire ».)
+ Mais il existe également un décalage constant. Si vous pouvez déterminer le taux de changement décrit ci-dessus,
+ vous devriez être en mesure de déterminer ce décalage constant.
+
+www/challenge/warchall/tropical/7/index.php
+./ssh-keygen
+https://phoenixnap.com/kb/ssh-with-key
+configuration samba sur linux
+
+
+
+
+
+
+
+
+
+
